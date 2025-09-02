@@ -1,6 +1,5 @@
+[简体中文](./README.md) | **English**
 # Code Stats - Ultimate Code Statistics Tool
-
-简体中文 | [English](#code-stats---ultimate-code-statistics-tool)
 
 A powerful command-line code statistics tool for in-depth analysis of codebases, providing detailed line counts, language breakdowns, and project health insights. It intelligently recognizes multiple programming languages and generates clear, formatted reports.
 
