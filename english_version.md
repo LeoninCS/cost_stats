@@ -16,7 +16,7 @@ A powerful command-line code statistics tool for in-depth analysis of codebases,
 *   **⚙️ Flexible Target Specification**: Supports analyzing either a single file or an entire directory.
 
 ## 🚀 Installation & Usage
-
+### [Tutorial Video Link](https://www.bilibili.com/video/BV1hqaKzPEEK?vd_source=4b2884373b2c4c4147b10162c1709276)
 ### Direct Usage
 1.  Save the script as `code_stats.sh`.
 2.  Make it executable:
